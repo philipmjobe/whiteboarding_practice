@@ -6,9 +6,11 @@
 # array = str.split(" ")
 # p array[-1]
 
-def last_word(str)
-  array = str.split(" ")
-  return array[-1].length
-end
+# def last_word(str)
+#   array = str.split(" ")
+#   return array[-1].length
+# end
 
-p last_word("Hello World")
+# p last_word("Hello World")
+
+
